@@ -1,5 +1,6 @@
 # Biological_Computation
-PART 1
+
+**PART 1**
 
 a) We wrote a program (in python) that gets as input a positive integer 𝑛 and generates all connected sub-graphs of size 𝑛.
 The output is a textual file of the following form:
@@ -25,7 +26,8 @@ each line i j means an edge from source i to target j.
 b) **The main program generates all connected sub-graphs of size 𝑛 for n in range 0 to 4 and save the results in the file "all_sub_graphs_of_size_n".**
 
 
-PART 2
+**PART 2**
+
 We wrote a program that gets as input positive integer 𝑛 and a graph of the format:
 
     1 2
