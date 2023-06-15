@@ -3,13 +3,20 @@ PART 1
 
 a) We wrote a program (in python) that gets as input a positive integer 𝑛 and generates all connected sub-graphs of size 𝑛.
 The output is a textual file of the following form:
-    n=2                                                                                                  
-    count=2                                                                 
-    #1                                                            
-    1 2                                              
+    n=2 
+    
+    count=2   
+    
+    #1   
+    
+    1 2  
+    
     #2
+    
     1 2
+    
     2 1
+    
 The first two lines output n and the total number (count) of different sub-graphs of size n.
 Then the sub-graphs themselves are given each starting with a line labelled #k for motif number followed by all edges,
 each line i j means an edge from source i to target j.
