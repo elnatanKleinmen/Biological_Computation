@@ -58,7 +58,7 @@ In the main program you can choose one of this options:
           3 4
           
         
-  Enter 2 and than the edges of the graph, as ints, first the source vertex of the egde and then the destination vertex of the egde. 
+  Enter 2 and than the edges of the graph, as ints, first the source vertex of the edge and then the destination vertex of the edge. 
   
 **The program will output all sub-graphs of size 𝑛 and the count of  how many instances appear of each motif to the file "all_sub_graphs_of_size_n_counting"
 for the chosen graph and n in range 0 to 4.**
