@@ -39,7 +39,7 @@ We wrote a program that gets as input positive integer 𝑛 and a graph of the f
     1 4
     
 The graph in the example contains 4 vertices 1,2,3,4 and directed edges (1,2) (2,3) (1,4).
-**The program outputs all sub-graphs of size 𝑛 and count how many instances appear of each motif. to the file "all_sub_graphs_of_size_n_counting".**
+The program outputs all sub-graphs of size 𝑛 and count how many instances appear of each motif.
 The format of the output of the identified sub-graphs is like in part 1,
 where in the line after #k should appear the count of number of instances, 
 count=m if the motif appears m times. 
