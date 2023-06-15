@@ -27,6 +27,7 @@ b) **The main program generates all connected sub-graphs of size 𝑛 for n in r
 
 
 
+
 **PART 2**
 
 We wrote a program that gets as input positive integer 𝑛 and a graph of the format:
