@@ -3,9 +3,10 @@ PART 1
 
 a) We wrote a program (in python) that gets as input a positive integer 𝑛 and generates all connected sub-graphs of size 𝑛.
 The output is a textual file of the following form:
-    n=2 count=2
-    #1
-    1 2
+    n=2                                                                                                  
+    count=2                                                                 
+    #1                                                            
+    1 2                                              
     #2
     1 2
     2 1
